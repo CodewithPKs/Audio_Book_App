@@ -1,0 +1,42 @@
+[
+  {
+    "rating": "4.5",
+    "title": "Bāl Kāṇḍ",
+    "text": "Sri ram janm",
+    "img": "assets/pic-10.jpeg",
+    "audio": "https://samplesongs.netlify.app/Death%20Bed.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Ayodhyā Kāṇḍ",
+    "text": "Rāma and Sītā have been married",
+    "img": "assets/pic-10.jpeg",
+    "audio": "https://samplesongs.netlify.app/Bad%20Liar.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Aranya Kanda",
+    "text": "fourteen years of exile",
+    "img": "assets/pic-10.jpeg",
+    "audio":  "https://samplesongs.netlify.app/Faded.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Sundara Kanda",
+    "text": "vivid account of Hanuman",
+    "img": "assets/pic-10.jpeg",
+    "audio":  "https://samplesongs.netlify.app/Hate%20Me.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Yuddha Kanda",
+    "text": "war between Rama and Ravana",
+    "img": "assets/pic-10.jpeg",
+    "audio": "https://samplesongs.netlify.app/Solo.mp3",
+    "type": "spiritual"
+  }
+]

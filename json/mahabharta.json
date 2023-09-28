@@ -1,0 +1,42 @@
+[
+  {
+    "rating": "4.5",
+    "title": "Adi Parva ",
+    "text": "The Book of the Beginning",
+    "img": "assets/pic-6.jpeg",
+    "audio": "https://samplesongs.netlify.app/Death%20Bed.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Vana Parva ",
+    "text": "The Book of the Forest",
+    "img": "assets/pic-6.jpeg",
+    "audio": "https://samplesongs.netlify.app/Bad%20Liar.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Udyoga Parva",
+    "text": "The Book of Virata",
+    "img": "assets/pic-6.jpeg",
+    "audio":  "https://samplesongs.netlify.app/Faded.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Shalya Parva ",
+    "text": "The Book of the Effort",
+    "img": "assets/pic-6.jpeg",
+    "audio":  "https://samplesongs.netlify.app/Hate%20Me.mp3",
+    "type": "spiritual"
+  },
+  {
+    "rating": "4.5",
+    "title": "Bhishma Parva",
+    "text": "The Book of Bhishma",
+    "img": "assets/pic-6.jpeg",
+    "audio": "https://samplesongs.netlify.app/Solo.mp3",
+    "type": "spiritual"
+  }
+]
